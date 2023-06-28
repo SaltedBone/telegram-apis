@@ -5,6 +5,7 @@
 This is a Telegram chatbot that utilizes artificial intelligence (AI) to interact with various Google services. The chatbot is designed to provide users with a seamless experience while accessing and utilizing Google services through the Telegram messaging platform.
 
 ## Features
+
 - **Natural Language Processing**: The chatbot uses AI-powered natural language processing techniques to understand user queries and commands.
 - **Google Service Integration**: The chatbot integrates with various Google services, including Google Search, Google Maps, Google Calendar, and more.
 - **Interactive Conversations**: Users can have interactive conversations with the chatbot, asking questions, making requests, and receiving relevant information from Google services.
@@ -12,6 +13,7 @@ This is a Telegram chatbot that utilizes artificial intelligence (AI) to interac
 - **Contextual Understanding**: The chatbot is designed to maintain context throughout the conversation, providing accurate and relevant responses based on previous interactions.
 
 ## Getting Started
+
 To use this Telegram chatbot, follow these steps:
 
 1. **Install Dependencies**: Make sure you have the necessary dependencies installed. This may include libraries such as `python-telegram-bot`, `google-api-python-client`, and others.
@@ -22,12 +24,15 @@ To use this Telegram chatbot, follow these steps:
 6. **Interact with the Chatbot**: Start a conversation with the Telegram bot and interact with it using natural language queries or commands. The chatbot will process the input, utilize the AI models, and interact with the relevant Google services to provide accurate responses.
 
 ## Contributing
+
 Contributions to this project are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue on the GitHub repository. You can also submit pull requests with improvements or fixes.
 
 ## License
+
 This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgements
+
 - This chatbot utilizes various open-source libraries and APIs, including the Python Telegram Bot library and the Google Cloud Platform APIs.
 - Special thanks to the developers and contributors of these libraries and services for their valuable contributions.
 
