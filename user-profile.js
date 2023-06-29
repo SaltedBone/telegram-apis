@@ -1,4 +1,4 @@
-// User-profile.js
+// user-profile.js
 // This file sets a user profile.
 
 // Set user profile
@@ -28,4 +28,5 @@ const userProfile = {
     }
   }
 };
+
 module.exports = userProfile;
